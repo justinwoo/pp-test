@@ -1,0 +1,8 @@
+{
+  "name": "pp-test",
+  "set": "local",
+  "source": "packages.json",
+  "depends": [
+    "prelude"
+  ]
+}

@@ -1,0 +1,1 @@
+try psc-package install
